@@ -1,0 +1,19 @@
+{
+  "name": "jokes-db",
+  "version": "1.0.0",
+  "description": "Jokes Database Challenge.",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:velantcode/jokes-db.git"
+  },
+  "author": "velantcode",
+  "license": "ISC",
+  "homepage": "https://github.com/velantcode/jokes-api#readme",
+  "dependencies": {
+    "mongoose": "8.0.0"
+  }
+}
